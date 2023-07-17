@@ -35,6 +35,7 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 :camera: [MicrosoftSecurity-XDR.pdf](MicrosoftSecurity-XDR.pdf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
+
 ---
 
 <!-------------------------------------------------------------------------------------------------------------------->
