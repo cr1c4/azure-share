@@ -16,6 +16,7 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 <a href="min_MicrosoftSecurity-XDRpdf.jpg">
   <img src="min_MicrosoftSecurity-XDRpdf.jpg" alt="MicrosoftSecurity-XDR.pdf" width="500"/>
 </a>
+
 ---
 <!-------------------------------------------------------------------------------------------------------------------->
 
