@@ -7,13 +7,13 @@ Este repositorio contiene una colección de imágenes utilizadas en mis publicac
 
 El repositorio está organizado por categorías para facilitar la búsqueda de imágenes. Las categorías incluyen:
 
-Diagramas de Arquitectura
-Capturas de Pantalla
-Logos de Azure
-Infografías
-Otros
-Cómo usar
-Para utilizar estas imágenes, simplemente haz clic derecho sobre la imagen que deseas usar y selecciona "Guardar imagen como...". Recuerda dar el crédito adecuado si la imagen lo requiere.
+El repositorio cuenta con la imagen en alta resolucion utilizada en el post realizao en su momento. Este es un listado del orden de las publicacaciones:
+
+*Post1
+
+*Post2
+
+*Post3
 
 Contribución
 Si te gustaría contribuir a este repositorio, por favor revisa las Pautas de Contribución que hemos proporcionado.
