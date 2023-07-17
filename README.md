@@ -1,4 +1,12 @@
 
+<center>
+<a href="Azure_share.png">
+  <img src="Azure_share.png" alt="Texto Alternativo" width="500"/>
+</a>
+</center>
+
+Azure_share.png
+
 <h1 align="center">Azure Share</h1>
 
 Este repositorio contiene una colección de imágenes utilizadas en mis publicaciones de LinkedIn sobre Azure, el servicio de nube de Microsoft. Estas imágenes incluyen diagramas de arquitectura, capturas de pantalla, infografias, entre otros.
