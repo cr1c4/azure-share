@@ -19,7 +19,9 @@ El repositorio está organizado por categorías para facilitar la búsqueda de i
 
 El repositorio cuenta con la imagen en alta resolucion utilizada en el post realizao en su momento. Este es un listado del orden de las publicacaciones:
 
+
 <!----------------------------------------------Publicacion 1-------------------------------------------------------->
+
 ----
 
 **[Publicación de Linkedin](https://www.linkedin.com/posts/chernandez314_azure-xdr-microsoft-activity-7013971090989318144-kPXK?utm_source=share&utm_medium=member_desktop)**
@@ -33,10 +35,9 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 :camera: [MicrosoftSecurity-XDR.pdf](MicrosoftSecurity-XDR.pdf)
 
 ---
+
 <!-------------------------------------------------------------------------------------------------------------------->
 
-*Post2
 
-*Post3
 
 
