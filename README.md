@@ -21,6 +21,25 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 
 ---
 
+<!----------------------------------------------Publicación 3-------------------------------------------------------->
+
+
+<h3 align="center">Publicación 3</h3>
+
+**[Publicación de Linkedin](https://www.linkedin.com/posts/chernandez314_azurecloud-azure-activity-7075233325119877120-3LGW?utm_source=share&utm_medium=member_desktop)**
+
+**Habla sobre:** Azure API Management (APIM) es un servicio de Azure para gestionar y proteger APIs, facilitando la integración y mejorando la seguridad de las soluciones digitales..
+
+</n><a href="min_APIM-v2pdf.jpg">
+  <img src="min_APIM-v2pdf.jpg" alt="APIM-v2.pdf" width="500"/>
+</a></n>
+
+:camera: [APIM-v2.pdf](APIM-v2.pdf)
+
+[![Linkedin Badge](https://img.shields.io/badge/-AzureCR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/groups/12786448//)](https://www.linkedin.com/groups/12786448/)&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
+
+---
+
 <!----------------------------------------------Publicación 2-------------------------------------------------------->
 
 
