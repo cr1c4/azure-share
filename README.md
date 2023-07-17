@@ -20,7 +20,7 @@ El repositorio está organizado por categorías para facilitar la búsqueda de i
 El repositorio cuenta con la imagen en alta resolucion utilizada en el post realizao en su momento. Este es un listado del orden de las publicacaciones:
 
 
-<!----------------------------------------------Publicacion 1-------------------------------------------------------->
+<!----------------------------------------------Publicación 1-------------------------------------------------------->
 
 ----
 
@@ -29,6 +29,28 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 **[Publicación de Linkedin](https://www.linkedin.com/posts/chernandez314_azure-xdr-microsoft-activity-7013971090989318144-kPXK?utm_source=share&utm_medium=member_desktop)**
 
 **Habla sobre:** Microsoft XDR es un servicio de Azure que utiliza IA para detectar y responder a amenazas cibernéticas, mejorando la seguridad de las organizaciones.
+
+</n><a href="AZURE-administracionDeTrafico.jpeg">
+  <img src="AZURE-administracionDeTrafico.jpeg" alt="AZURE-administracionDeTrafico.jpeg" width="500"/>
+</a></n>
+
+:camera: [AZURE-administracionDeTrafico.jpeg](AZURE-administracionDeTrafico.jpeg)
+
+[![Linkedin Badge](https://img.shields.io/badge/-AzureCR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/groups/12786448//)](https://www.linkedin.com/groups/12786448/)&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
+
+---
+
+<!-------------------------------------------------------------------------------------------------------------------->
+
+<!----------------------------------------------Publicación 2-------------------------------------------------------->
+
+----
+
+<h3 align="center">Publicación 2</h3>
+
+**[Publicación de Linkedin](https://www.linkedin.com/posts/chernandez314_azurecloud-azure-activity-7075233325119877120-3LGW?utm_source=share&utm_medium=member_desktop)**
+
+**Habla sobre:** Opciones en Azure para la administración de trafico.
 
 </n><a href="min_MicrosoftSecurity-XDRpdf.jpg">
   <img src="min_MicrosoftSecurity-XDRpdf.jpg" alt="MicrosoftSecurity-XDR.pdf" width="500"/>
