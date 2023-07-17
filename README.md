@@ -15,7 +15,7 @@ Licencia
 A menos que se indique lo contrario, las imágenes de este repositorio están bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
 
 Contacto
-Si tienes alguna pregunta o comentario, por favor no dudes en ponerte en contacto conmigo. 📫 *chernandez3.14@outlook.com**
+Si tienes alguna pregunta o comentario, por favor no dudes en ponerte en contacto conmigo. 📫 **chernandez3.14@outlook.com**
 
 
 <h2>Contenido</h2> 
