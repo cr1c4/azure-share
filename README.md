@@ -13,9 +13,9 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 ----
 Link publicacion: https://www.linkedin.com/posts/chernandez314_azure-xdr-microsoft-activity-7013971090989318144-kPXK?utm_source=share&utm_medium=member_desktop
 Habla sobre: Microsoft XDR es un servicio de Azure que utiliza IA para detectar y responder a amenazas cibernéticas, mejorando la seguridad de las organizaciones.
-<a href="min_MicrosoftSecurity-XDRpdf.jpg">
+</n><a href="min_MicrosoftSecurity-XDRpdf.jpg">
   <img src="min_MicrosoftSecurity-XDRpdf.jpg" alt="MicrosoftSecurity-XDR.pdf" width="500"/>
-</a>
+</a></n>
 :camera: [MicrosoftSecurity-XDR.pdf](MicrosoftSecurity-XDR.pdf)
 ---
 <!-------------------------------------------------------------------------------------------------------------------->
