@@ -9,7 +9,8 @@
 Este repositorio contiene una colección de imágenes utilizadas en mis publicaciones de LinkedIn sobre Azure, el servicio de nube de Microsoft. Estas imágenes incluyen diagramas de arquitectura, capturas de pantalla, infografias, entre otros.
 
 
-Si tienes alguna pregunta o comentario, por favor no dudes en ponerte en contacto conmigo. 📫**chernandez3.14@outlook.com**
+Si tienes alguna pregunta o comentario, por favor no dudes en ponerte en contacto conmigo. 
+📫**chernandez3.14@outlook.com**
 
 
 <h2>Contenido</h2> 
