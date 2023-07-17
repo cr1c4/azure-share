@@ -18,9 +18,7 @@ Contacto
 Si tienes alguna pregunta o comentario, por favor no dudes en ponerte en contacto conmigo.
 
 
-<h2>Contenido</h2>  
-
-El repositorio está organizado por categorías para facilitar la búsqueda de imágenes. Las categorías incluyen:
+<h2>Contenido</h2> 
 
 El repositorio cuenta con la imagen en alta resolucion utilizada en el post realizao en su momento. Este es un listado del orden de las publicacaciones:
 
