@@ -1,18 +1,11 @@
 
 <p align="center">
   <a href="Azure_share.png">
-    <img src="Azure_share.png" alt="Azure_share.png" width="700" />
+    <img src="Azure_share.png" alt="Azure_share.png" width="850" />
   </a>
 </p>
 
 
-<center>
-<a href="Azure_share.png">
-  <img src="Azure_share.png" alt="Texto Alternativo" width="500"/>
-</a>
-</center>
-
-Azure_share.png
 
 <h1 align="center">Azure Share</h1>
 
