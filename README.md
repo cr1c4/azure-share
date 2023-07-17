@@ -29,11 +29,11 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 
 **Habla sobre:** Azure Dev Box y Dev Home combinados ofrecen un robusto entorno de desarrollo en la nube.
 
-</n><a href="AzureHDinsightKeysComponents.pdf">
-  <img src="min_AzureHDinsightKeysComponentspdf.jpg" alt="AzureHDinsightKeysComponents.pdf" width="500"/>
+</n><a href="DevHome-DevBox.jpeg">
+  <img src="DevHome-DevBox.jpeg" alt="DevHome-DevBox.jpeg" width="500"/>
 </a></n>
 
-:camera: [AzureHDinsightKeysComponents.pdf](AzureHDinsightKeysComponents.pdf)
+:camera: [DevHome-DevBox.jpeg](DevHome-DevBox.jpeg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-AzureCR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/groups/12786448//)](https://www.linkedin.com/groups/12786448/)&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
 
