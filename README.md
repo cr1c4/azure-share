@@ -13,6 +13,11 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 
 [![MicrosoftSecurity-XDR.pdf](min_MicrosoftSecurity-XDRpdf.jpg)]
 
+<a href="min_MicrosoftSecurity-XDRpdf.jpg">
+  <img src="min_MicrosoftSecurity-XDRpdf.jpg" alt="MicrosoftSecurity-XDR.pdf" width="200"/>
+</a>
+
+
 *Post2
 
 *Post3
