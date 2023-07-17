@@ -20,6 +20,25 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 
 ---
 
+<!----------------------------------------------Publicación 4-------------------------------------------------------->
+
+
+<h3 align="center">Publicación 4</h3>
+
+**[Publicación de Linkedin](https://www.linkedin.com/posts/chernandez314_azure-hbase-hadoop-activity-7035421893255929856-1eFv?utm_source=share&utm_medium=member_desktop)**
+
+**Habla sobre:** Azure HDInsight es un servicio de Microsoft para análisis de big data que gestiona y escala clústeres de herramientas como Hadoop y Spark en la nube.
+
+</n><a href="AzureHDinsightKeysComponents.pdf">
+  <img src="min_AzureHDinsightKeysComponentspdf.jpg" alt="AzureHDinsightKeysComponents.pdf" width="500"/>
+</a></n>
+
+:camera: [AzureHDinsightKeysComponents.pdf](AzureHDinsightKeysComponents.pdf)
+
+[![Linkedin Badge](https://img.shields.io/badge/-AzureCR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/groups/12786448//)](https://www.linkedin.com/groups/12786448/)&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-Cristian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chernandez314//)](https://www.linkedin.com/in/chernandez314/)
+
+---
+
 <!----------------------------------------------Publicación 3-------------------------------------------------------->
 
 
