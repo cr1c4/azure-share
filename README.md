@@ -19,11 +19,10 @@ El repositorio está organizado por categorías para facilitar la búsqueda de i
 
 El repositorio cuenta con la imagen en alta resolucion utilizada en el post realizao en su momento. Este es un listado del orden de las publicacaciones:
 
-
+---
 
 <!----------------------------------------------Publicación 2-------------------------------------------------------->
 
-----
 
 <h3 align="center">Publicación 2</h3>
 
@@ -43,7 +42,6 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 
 <!----------------------------------------------Publicación 3-------------------------------------------------------->
 
-----
 
 <h3 align="center">Publicación 1</h3>
 
