@@ -11,6 +11,8 @@ El repositorio cuenta con la imagen en alta resolucion utilizada en el post real
 
 :camera: Post1 [MicrosoftSecurity-XDR.pdf](MicrosoftSecurity-XDR.pdf)
 
+[![MicrosoftSecurity-XDR.pdf](min_MicrosoftSecurity-XDRpdf.jpg)]
+
 *Post2
 
 *Post3
