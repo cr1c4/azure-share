@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="Azure_share.png">
-    <img src="Azure_share.png" alt="Azure_share.png" width="500" />
+    <img src="Azure_share.png" alt="Azure_share.png" width="700" />
   </a>
 </p>
 
