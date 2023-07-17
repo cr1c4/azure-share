@@ -9,7 +9,7 @@ El repositorio está organizado por categorías para facilitar la búsqueda de i
 
 El repositorio cuenta con la imagen en alta resolucion utilizada en el post realizao en su momento. Este es un listado del orden de las publicacaciones:
 
-:camera:Post1
+:camera: Post1 [MicrosoftSecurity-XDR.pdf(MicrosoftSecurity-XDR.pdf)
 
 *Post2
 
