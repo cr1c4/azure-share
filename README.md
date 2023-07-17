@@ -16,7 +16,7 @@ Si tienes alguna pregunta o comentario, por favor no dudes en ponerte en contact
 
 <h2>Contenido</h2> 
 
-El repositorio cuenta con la imagen en alta resolucion utilizada en el post realizao en su momento. Este es un listado del orden de las publicacaciones:
+El repositorio cuenta con la imagen en alta resolucion utilizada en el post realizado en su momento. Este es un listado del orden de las publicacaciones:
 
 ---
 
