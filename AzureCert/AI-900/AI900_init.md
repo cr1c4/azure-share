@@ -5,5 +5,5 @@
 </p>
 
 <p>
-<a href="AI-900 - Explore decision support_Mod1_ES_ES.jpeg"><img src="I-900 - Explore decision support_Mod1_ES_ES.jpeg" alt="I-900 - Explore decision support_Mod1_ES_ES.jpeg" /></a>
+<a href="AI-900 - Explore decision support_Mod1_ES_ES.jpeg"><img src="AI-900 - Explore decision support_Mod1_ES_ES.jpeg" alt="I-900 - Explore decision support_Mod1_ES_ES.jpeg" /></a>
 </p>
